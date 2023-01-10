@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-KottinovApplication<kottinov>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.kottinov.KottinovApplication",
+      "projectName": "kottinov",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
